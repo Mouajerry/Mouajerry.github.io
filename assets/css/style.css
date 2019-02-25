@@ -148,25 +148,18 @@ h4 {
 
 }
 
-img {
-
-  width:225px;
-  height:175px;
-  margin: 2em;
-
-}
 
 #gallery {
   -webkit-column-count: 2;
   column-count: 2;
   -webkit-row-count: 3;
 
-
 }
 
 .portfolio-container {
   position: relative;
 }
+
 .hangman {
 position: absolute;
 width:185px;
