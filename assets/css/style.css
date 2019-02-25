@@ -138,20 +138,31 @@ cursor: pointer;
   box-sizing: border-box;
 }
 
-.relative {
-  position: relative;
-  width: 400px;
-  height: 200px;
-  border: 3px solid #73AD21;
-} 
+h4 {
+float: center;
+background-color: #4aaaa5;
+border: none;
+color: #ffffff;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+padding: 8px 35px;
+Margin: 4px 2px;
+cursor: pointer;
+}
 
-.absolute {
-  position: absolute;
-  top: 80px;
-  right: 0;
-  width: 200px;
-  height: 100px;
-  border: 3px solid #73AD21;
+.container {
+  width: 180px;
+  height: 175px;
+  margin-top: 25px; 
+  margin-left: -10px;
+  margin-bottom: 0px;
+  margin-right: 15px;  
+}
+
+.container1 {
+float: center;
 }
 
 .footer{
