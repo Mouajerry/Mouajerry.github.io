@@ -144,16 +144,6 @@ h4 {
 
 }
 
-
-
-img {
-
-  width:225px;
-  height:175px;
-  margin: 2em;
-
-}
-
 #gallery {
   -webkit-column-count: 2;
   column-count: 2;
